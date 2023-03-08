@@ -10,6 +10,6 @@
 * License URI: https://github.com/ramhee98/deactivate-jpeg-compression/blob/main/LICENSE
 */
 
-/***** this deactivates picture compression ;) *****/
+/***** this deactivates JPEG compression ;) *****/
 
 add_filter('jpeg_quality', function($arg){return 100;}); add_filter( 'wp_editor_set_quality', function($arg){return 100;} );
