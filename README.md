@@ -1,2 +1,2 @@
 # deactivate-jpeg-compression
-This Plugin deactivates JPEG compression
+This simple Wordpress Plugin deactivates JPEG compression
